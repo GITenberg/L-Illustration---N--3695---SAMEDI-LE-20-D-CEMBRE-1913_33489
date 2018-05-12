@@ -1,0 +1,26 @@
+_repo: L-Illustration---N--3695---SAMEDI-LE-20-D-CEMBRE-1913_33489
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33489-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: L'Illustration
+gutenberg_issued: '2010-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33489'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Illustrated periodicals -- France'
+title: L'Illustration, No. 3695, 20 Décembre 1913
+url: http://www.gutenberg.org/ebooks/33489
